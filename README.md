@@ -1,6 +1,6 @@
 # cse210-student-template
 
-Benedict Da Silva
+Benedict 
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
